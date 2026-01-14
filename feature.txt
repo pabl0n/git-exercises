@@ -1,3 +1,7 @@
 nueva funcionalidad agregada VERSION 20260113
 cambio en main
-cambio para rebase
+rebase arreglado
+
+
+
+
